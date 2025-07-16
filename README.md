@@ -156,9 +156,11 @@ psd2-fraud-observatory/
 │   ├── psd2_data_generator_2025.py
 │   └── sample_transactions.json
 ├── screenshots/
-│   ├── geographic_risk.png
-│   ├── device_analysis.png
-│   └── temporal_patterns.png
+│   ├── data_overview.jpg             # KPI dashboard screenshot
+│   ├── geographic_risk_analysis.jpg  # Risk corridor analysis
+│   ├── device_risk_intelligence.jpg  # Device risk intelligence
+│   ├── temporal_fraud_patterns.jpg   # Time-based fraud patterns
+│   └── amount_risk_segmentation.jpg  # Amount-based risk analysis
 ├── splunk/
 │   ├── fraud_detection_queries.spl
 │   └── alert_definitions.spl
@@ -186,4 +188,3 @@ MIT License
 ---
 
 *Built for financial security and regulatory compliance*
-
